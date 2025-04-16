@@ -3,6 +3,13 @@
   "description": "Simple customizable logger with web viewer, pagination, filtering, and security.",
   "type": "library",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Mustapha Tijani",
+      "email": "codebymustapha@gmail.com",
+      "role": "Developer"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "TijaniDevIt\\Logger\\": "src/"
