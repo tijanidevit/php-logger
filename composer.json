@@ -1,0 +1,16 @@
+{
+  "name": "tijanidevit/php-logger",
+  "description": "Simple customizable logger with web viewer, pagination, filtering, and security.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "TijaniDevIt\\Logger\\": "src/"
+    }
+  },
+  "scripts": {
+    "publish-logger-assets": "php vendor/tijanidevit/php-logger/scripts/publish.php"
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
