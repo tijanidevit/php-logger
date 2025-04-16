@@ -2,6 +2,7 @@
   "name": "tijanidevit/php-logger",
   "description": "Simple customizable logger with web viewer, pagination, filtering, and security.",
   "type": "library",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "TijaniDevIt\\Logger\\": "src/"
